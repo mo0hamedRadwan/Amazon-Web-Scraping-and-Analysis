@@ -1,0 +1,11 @@
+requests
+html5lib
+fake_headers
+bs4
+lxml
+json
+csv
+
+numpy
+pandas
+matplotlib
